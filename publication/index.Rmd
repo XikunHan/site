@@ -1,0 +1,55 @@
+---
+title: "Publications"
+author: 
+- name: Xikun Han
+output:
+  BiocStyle::html_document:
+    toc_float: true
+vignette: >
+  %\VignetteIndexEntry{Publications}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+
+---
+
+<style type="text/css">
+
+body, td {
+   font-size: 16px;
+}
+code.r{
+  font-size: 20px;
+}
+pre {
+  font-size: 20px
+}
+p {line-height: 1.8em;}
+
+</style>
+
+```{r options, include=FALSE, echo=FALSE}
+library(BiocStyle)
+knitr::opts_chunk$set(warning=FALSE, error=FALSE, message=FALSE,size=30)
+```
+
+
+
+# Multitrait analysis of glaucoma identifies new risk loci and enables polygenic prediction of disease susceptibility and progression
+Published in <strong>Nature Genetics</strong> (2020). <br/>
+DOI: [10.1038/s41588-019-0556-y](https://www.nature.com/articles/s41588-019-0556-y)
+<br/>
+[Download GWAS summary statistics here](https://drive.google.com/open?id=1rdd9h8M5L1X1ALoLlv2pNVoH1eJFeA-B)
+<br/>
+[Download glaucoma polygenic scores here](https://drive.google.com/open?id=1FyhGJnHfBVph_TSxNbvDBtp1n0Lp8pmt)
+
+
+  
+# Automated AI labeling of optic nerve head enables insights into cross-ancestry glaucoma risk and genetic discovery in >280,000 images from UKB and CLSA
+Published in <strong>American Journal of Human Genetics</strong> (2021). <br/>
+DOI: [10.1016/j.ajhg.2021.05.005](https://www.cell.com/ajhg/fulltext/S0002-9297(21)00189-0)
+<br/>
+[Download GWAS summary statistics here](https://drive.google.com/drive/folders/1OzCTQOQ9wxbhzczLyL7w3G4vSnkObpC-?usp=sharing)
+
+
+# Large scale multi-trait genome-wide association analysis identifies hundreds of glaucoma risk loci
+[Download GWAS summary statistics here](https://drive.google.com/drive/folders/1B5q6_nhd8GPSDBhH412svsG_rtILzAgk?usp=sharing)
