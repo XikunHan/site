@@ -52,4 +52,12 @@ DOI: [10.1016/j.ajhg.2021.05.005](https://www.cell.com/ajhg/fulltext/S0002-9297(
 
 
 # Large scale multi-trait genome-wide association analysis identifies hundreds of glaucoma risk loci
+Published in <strong>Nature Genetics</strong> (2023). <br/>
+DOI: [s41588-023-01428-5](https://www.nature.com/articles/s41588-023-01428-5)
+<br/>
 [Download GWAS summary statistics here](https://drive.google.com/drive/folders/1B5q6_nhd8GPSDBhH412svsG_rtILzAgk?usp=sharing)
+
+
+# Large-scale genetics integrated with fine-mapping and single-cell analyses prioritizes effector genes and cellular contexts underlying glaucoma risk
+Accepted in <strong>Nature Genetics</strong> (2026). <br/>
+[Download GWAS summary statistics here](https://drive.google.com/drive/folders/1QyapvAnzHuzYAnbsOewbCHS15yxFdOnL?usp=sharing)
